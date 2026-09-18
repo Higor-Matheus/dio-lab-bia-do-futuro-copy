@@ -2,8 +2,6 @@
 
 ## Dados Utilizados
 
-Descreva se usou os arquivos da pasta `data`, por exemplo:
-
 | Arquivo | Formato | Utilização no Agente |
 |---------|---------|---------------------|
 | `historico_atendimento.csv` | CSV | Contextualizar interações anteriores |
@@ -15,12 +13,11 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 > **Quer um dataset mais robusto?** Você pode utilizar datasets públicos do [Hugging Face](https://huggingface.co/datasets) relacionados a finanças, desde que sejam adequados ao contexto do desafio.
 
 ---
-
 ## Adaptações nos Dados
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[Sua descrição aqui]
+[Modifiquei a base de dados para ao inves de ser um agente financeiro ser um agente da historia da financias no mundo com o foco de ensinar acontecimentos historicos do mercado financeiro]
 
 ---
 
