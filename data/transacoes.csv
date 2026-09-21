@@ -1,11 +1,11 @@
 data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+1929-10-24,Queda da Bolsa de Nova York,crise_1929,11.70,queda
+1929-10-29,Black Tuesday,crise_1929,12.80,queda
+1973-10-01,Crise do Petróleo,crise_petroleo,4.00,aumento
+1987-10-19,Black Monday,crise_1987,22.60,queda
+1997-07-02,Crise Financeira Asiática,crise_asiatica,15.00,queda
+2000-03-10,Estouro da Bolha da Internet,bolha_tecnologia,27.00,queda
+2008-09-15,Falência do Lehman Brothers,crise_2008,4.71,queda
+2008-10-10,Crise dos mercados globais,crise_2008,7.60,queda
+2020-02-20,Impacto inicial da Covid-19,crise_covid,3.35,queda
+2020-03-16,Queda dos mercados durante a pandemia,crise_covid,12.93,queda
