@@ -1,42 +1,50 @@
 [
   {
-    "nome": "Tesouro Selic",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "100% da Selic",
-    "aporte_minimo": 30.00,
-    "indicado_para": "Reserva de emergência e iniciantes"
-  },
-  {
-    "nome": "CDB Liquidez Diária",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "102% do CDI",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Quem busca segurança com rendimento diário"
-  },
-  {
-    "nome": "LCI/LCA",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "95% do CDI",
-    "aporte_minimo": 1000.00,
-    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
-  },
-  {
-    "nome": "Fundo Multimercado",
-    "categoria": "fundo",
-    "risco": "medio",
-    "rentabilidade": "CDI + 2%",
-    "aporte_minimo": 500.00,
-    "indicado_para": "Perfil moderado que busca diversificação"
-  },
-  {
-    "nome": "Fundo de Ações",
-    "categoria": "fundo",
+    "nome": "Ações",
+    "categoria": "mercado_de_capitais",
     "risco": "alto",
     "rentabilidade": "Variável",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Perfil arrojado com foco no longo prazo"
+    "aporte_minimo": 0.00,
+    "indicado_para": "Estudar a evolução das empresas e das bolsas de valores ao longo da história"
+  },
+  {
+    "nome": "Títulos Públicos",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "Varia conforme o título e as condições econômicas",
+    "aporte_minimo": 0.00,
+    "indicado_para": "Compreender como governos captam recursos e como juros afetam o mercado"
+  },
+  {
+    "nome": "Câmbio",
+    "categoria": "mercado_de_moedas",
+    "risco": "alto",
+    "rentabilidade": "Varia conforme as taxas de câmbio",
+    "aporte_minimo": 0.00,
+    "indicado_para": "Estudar relações econômicas entre países e crises cambiais"
+  },
+  {
+    "nome": "Commodities",
+    "categoria": "mercado_de_commodities",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 0.00,
+    "indicado_para": "Compreender o impacto de petróleo, ouro e outros produtos básicos na economia mundial"
+  },
+  {
+    "nome": "Derivativos",
+    "categoria": "mercado_de_derivativos",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 0.00,
+    "indicado_para": "Estudar instrumentos financeiros utilizados para proteção e especulação"
+  },
+  {
+    "nome": "Fundos de Investimento",
+    "categoria": "fundos",
+    "risco": "variável",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 0.00,
+    "indicado_para": "Compreender a evolução da gestão coletiva de investimentos"
   }
 ]
