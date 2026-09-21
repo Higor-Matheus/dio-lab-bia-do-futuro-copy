@@ -1,6 +1,11 @@
 data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+2025-01-15,chat,Crise de 1929,"Usuário perguntou sobre as causas e consequências da Grande Depressão",sim
+2025-02-03,chat,Crise do Petróleo de 1973,"Usuário pediu explicação sobre o impacto do aumento do preço do petróleo na economia mundial",sim
+2025-03-18,chat,Black Monday de 1987,"Usuário perguntou sobre a grande queda das bolsas ocorrida em outubro de 1987",sim
+2025-04-07,chat,Crise Asiática de 1997,"Usuário pediu explicação sobre as causas e impactos da crise financeira asiática",sim
+2025-05-22,chat,Bolha da Internet,"Usuário perguntou sobre a bolha das empresas de tecnologia no final dos anos 1990",sim
+2025-06-10,chat,Crise Financeira de 2008,"Usuário pediu explicação sobre a crise imobiliária e seus impactos no sistema financeiro mundial",sim
+2025-07-05,chat,Covid-19 e mercados,"Usuário perguntou como a pandemia afetou os mercados financeiros em 2020",sim
+2025-08-19,chat,Inflação,"Usuário perguntou como a inflação influencia os mercados financeiros",sim
+2025-09-02,chat,Taxa de juros,"Usuário perguntou qual é a relação entre juros e investimentos",sim
+2025-09-15,chat,Bolsa de valores,"Usuário pediu uma explicação sobre o funcionamento de uma bolsa de valores",sim
