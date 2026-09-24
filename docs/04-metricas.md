@@ -53,10 +53,10 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+- [Sim funcionou como o esperado mesmo com uma base de dados limitada e estrutura simples]
 
 **O que pode melhorar:**
-- [Liste aqui]
+- [O tempo de resposta demora um pouco para o agente dar as resposta mais isso pode ser por conta do meu notebook ser fraco]
 
 ---
 
