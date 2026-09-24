@@ -17,7 +17,7 @@
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[Modifiquei a base de dados para ao inves de ser um agente financeiro ser um agente da historia da financias no mundo com o foco de ensinar acontecimentos historicos do mercado financeiro]
+[Transformei a base de dados para que, em vez de simular perfis de investidores e produtos financeiros, o agente utilize registros históricos e exemplos de acontecimentos marcantes do mercado financeiro mundial. O objetivo é contextualizar eventos passados e ensinar como eles moldaram a evolução da economia.]
 
 ---
 
@@ -26,12 +26,12 @@
 ### Como os dados são carregados?
 > Descreva como seu agente acessa a base de conhecimento.
 
-[ex: Os JSON/CSV são carregados no início da sessão e incluídos no contexto do prompt]
+[Os arquivos CSV e JSON são carregados no início da sessão e ficam disponíveis no contexto do agente. Eles são lidos e estruturados em memória para que o agente possa consultar dinamicamente conforme a interação avança.]
 
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-[Sua descrição aqui]
+[Os dados não vão diretamente no system prompt. Em vez disso, são consultados dinamicamente: quando o usuário pergunta sobre um período ou evento histórico, o agente busca nos datasets correspondentes e insere trechos relevantes no contexto da resposta. Isso garante que as explicações sejam fundamentadas em registros históricos.]
 
 ---
 
@@ -40,13 +40,16 @@
 > Mostre um exemplo de como os dados são formatados para o agente.
 
 ```
-Dados do Cliente:
-- Nome: João Silva
-- Perfil: Moderado
-- Saldo disponível: R$ 5.000
+Dados Históricos:
+- Evento: Crise de 1929
+- Local: Estados Unidos
+- Impacto: Quebra da Bolsa de Nova York
+- Consequências: Grande Depressão, falências em massa, desemprego elevado
 
-Últimas transações:
-- 01/11: Supermercado - R$ 450
+Registros adicionais:
+- 1971: Fim do padrão-ouro (Nixon Shock)
+- 2008: Crise do Subprime
+
 - 03/11: Streaming - R$ 55
 ...
 ```
